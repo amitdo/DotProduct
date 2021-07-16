@@ -1,1 +1,1 @@
-# DotProduct.md
+# DotProduct
