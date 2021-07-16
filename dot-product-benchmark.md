@@ -1,5 +1,7 @@
 # Comparison of execution time with different dot product implementations
 
+Data was provided by @stweil.
+
 * time lstm_squashed_test
 * time DOTPRODUCT=accelerate lstm_squashed_test
 * time DOTPRODUCT=generic lstm_squashed_test
