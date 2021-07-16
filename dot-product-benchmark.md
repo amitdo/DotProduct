@@ -27,11 +27,11 @@ Data was provided by @stweil.
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | clang 7 | MT | 64 | DP Generic | 99 s | 1.
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | clang 7 | MT | 64 | DP Native  | 55 s | 1. |
 |   |   |   |   |   |   |   |   |
-| AMD EPYC 7502 | Linux | g++ 10.1.1 ST | 64 | DP default) | 36 s | 1. |
-| AMD EPYC 7502 | Linux | g++ 10.1.1 ST | 64 | DP Generic | 91 s | 1.
-| AMD EPYC 7502 | Linux | g++ 10.1.1 ST | 64 | DP Native | 87 s | 1.
+| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 64 | DP default) | 36 s | 1. |
+| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 64 | DP Generic | 91 s | 1.
+| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 64 | DP Native | 87 s | 1.
 |   |   |   |   |   |   |   |   |
-| AMD EPYC 7502 | Linux | g++ 10.1.1 ST | 32 | DP (default) | 28 s | 1. |
+| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 32 | DP (default) | 28 s | 1. |
 |   |   |   |   |   |   |   |   |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP (default) | 32 s | 1. |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Generic | 76 s | 1. |
