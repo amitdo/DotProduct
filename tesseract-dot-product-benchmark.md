@@ -9,14 +9,11 @@ Data was provided by @stweil.
 
 | System | OS | Compiler | MT/ST | f64/f32 | Dot Product | Sec | Norm
 | -- | -- | -- | -- | -- | -- | -- | -- |
-| Apple M1 | macOS | clang | MT | 64 | DP (default) | 24 s | 1. |
 | Apple M1 | macOS | clang | MT | 64 | DP Accelerate | 33 s | 1. |
 | Apple M1 | macOS | clang | MT | 64 | DP Generic | 64 s | 1.
 | Apple M1 | macOS | clang | MT | 64 | DP Native  | 30 s | 1. |
 |   |   |   |   |   |   |   |   |
-| Apple M1 | macOS | clang | MT | 32 | DP (default) | 22 s | 1. |
 | Apple M1 | macOS | clang | MT | 32 | DP Accelerate | 23 s | 1. |
-| Apple M1 | macOS | clang | MT | 32 | DP Generic | -- | --
 | Apple M1 | macOS | clang | MT | 32 | DP Native | 22 s | 1. |
 |   |   |   |   |   |   |   |   |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP (default) | 53 s | 1. |
