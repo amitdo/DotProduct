@@ -7,6 +7,8 @@ Data was provided by @stweil.
 * time DOTPRODUCT=generic lstm_squashed_test
 * time DOTPRODUCT=native lstm_squashed_test
 
+https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
+
 | System | OS | Compiler | MT/ST | f64/f32 | Dot Product | Sec | Norm |
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | Apple M1 | macOS | clang | MT | 64 | DP Accelerate | 33 s | 1.10 |
