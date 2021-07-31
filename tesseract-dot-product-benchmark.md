@@ -16,6 +16,13 @@ Data was provided by @stweil.
 | Apple M1 | macOS | clang | MT | 32 | DP Accelerate | 23 s | 1.05 |
 | Apple M1 | macOS | clang | MT | 32 | DP Native | 22 s | 1.00 |
 |   |   |   |   |   |   |   |   |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP default) | 60 s | 1.00 |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Accelerate | 78 s | 1.33 |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Generic | 108 s | 1.80 |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Native | 65 s | 1.08 |
+|   |   |   |   |   |   |   |   |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 32 | DP (default) | 49 s | (0.82) |
+|   |   |   |   |   |   |   |   |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP (default) | 53 s | 1. |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Generic | 105 s | 1. |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Native  | 139 s | 1.
@@ -33,13 +40,6 @@ Data was provided by @stweil.
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP (default) | 32 s | 1. |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Generic | 76 s | 1. |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Native | 37 s | 1. |
-|   |   |   |   |   |   |   |   |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP default) | 60 s | 1.00 |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Accelerate | 78 s | 1.33 |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Generic | 108 s | 1.80 |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Native | 65 s | 1.08 |
-|   |   |   |   |   |   |   |   |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 32 | DP (default) | 49 s | (0.82) |
 |   |   |   |   |   |   |   |   |
 | Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  (default) | 179 s | 1. |
 | Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Generic | 179 s | 1. |
