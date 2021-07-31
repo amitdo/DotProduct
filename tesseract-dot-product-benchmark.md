@@ -41,9 +41,8 @@ Data was provided by @stweil.
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Generic | 76 s | 1. |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Native | 37 s | 1. |
 |   |   |   |   |   |   |   |   |
-| Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  (default) | 179 s | 1. |
-| Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Generic | 179 s | 1. |
-| Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Native | 130 s | 1. |
+| Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Generic | 179 s | 1.38 |
+| Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Native | 130 s | 1.00 |
 |   |   |   |   |   |   |   |   |
 | NVIDIA Jetson Xavier | Linux | g++ 9.3.0 | ST | 64 | DP (default) | 113 s | 1. |
 | NVIDIA Jetson Xavier | Linux | g++ 9.3.0 | ST | 64 | DP Generic | 180 s | 1. |
