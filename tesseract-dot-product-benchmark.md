@@ -19,7 +19,7 @@ https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
 | Apple M1 | macOS | clang | MT | 32 | DP Native | 22 s | 1.00 |
 |   |   |   |   |   |   |   |   |
 | Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP default) | 60 s | 1.00 |
-| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Accelerate | 78 s | 1.33 |
+| Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Accelerate | 78 s | 1.3 |
 | Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Native | 65 s | 1.08 |
 | Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 64 | DP Generic | 108 s | 1.80 |
 |   |   |   |   |   |   |   |   |
