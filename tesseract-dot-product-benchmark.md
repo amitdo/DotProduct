@@ -25,9 +25,9 @@ https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
 |   |   |   |   |   |   |   |   |
 | Macbook intel Core i5 1.4 MHz | macOS | clang | ST | 32 | DP (default) | 49 s | (0.82) |
 |   |   |   |   |   |   |   |   |
-| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP (default) | 53 s | 1. |
-| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Native  | 139 s | 1.
-| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Generic | 105 s | 1. |
+| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP (default) | 53 s | 1.0 |
+| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Native  | 139 s | 2.62
+| intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | g++ 8.3.0 | MT | 64 | DP Generic | 105 s | 1.98 |
 |   |   |   |   |   |   |   |   |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | clang 7 | MT | 64 | DP (default) | 47 s | 1. |
 | intel Xeon CPU E5-2620 v4 @ 1.10GHz | Linux | clang 7 | MT | 64 | DP Native  | 55 s | 1. |
