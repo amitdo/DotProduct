@@ -37,7 +37,7 @@ https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
 | AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 64 | DP Native | 87 s | 2.42 |
 | AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 64 | DP Generic | 91 s | 2.53 |
 |   |   |   |   |   |   |   |   |
-| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 32 | DP (default) | 28 s | 1. |
+| AMD EPYC 7502 | Linux | g++ 10.1.1 | ST | 32 | DP (default) | 28 s | (0.78) |
 |   |   |   |   |   |   |   |   |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP (default) | 32 s | 1.0 |
 | AMD EPYC 7502 | Linux | clang 11 | ST | 64 | DP Native | 37 s | 1.16 |
@@ -50,9 +50,9 @@ https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
 | NVIDIA Jetson Xavier | Linux | g++ 9.3.0 | ST | 32 | DP (default) | 97 s | 1.01 |
 | NVIDIA Jetson Xavier | Linux | g++ 9.3.0 | ST | 32 | DP Native | 96 s | 1.0 |
 |   |   |   |   |   |   |   |   |
-| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP (default) | 97 s | 1. |
-| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Native | 104 s | 1.0 |
-| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Generic | 185 s | 1.78 |
+| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP (default) | 97 s | 1.0 |
+| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Native | 104 s | 1.07 |
+| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Generic | 185 s | 1.91 |
 |   |   |   |   |   |   |   |   |
 | NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP (default) | 86 s | 1.04 |
 | NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP Native | 83 s | 1.0 |
