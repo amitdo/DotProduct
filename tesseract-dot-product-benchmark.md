@@ -54,8 +54,8 @@ https://github.com/tesseract-ocr/tesseract/tree/master/src/arch
 | NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Native | 104 s | 1.0 |
 | NVIDIA Jetson Xavier | Linux | clang 11 | ST | 64 | DP Generic | 185 s | 1.78 |
 |   |   |   |   |   |   |   |   |
-| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP (default) | 86 s | 1. |
-| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP Native | 83 s | (0.83) |
+| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP (default) | 86 s | 1.04 |
+| NVIDIA Jetson Xavier | Linux | clang 11 | ST | 32 | DP Native | 83 s | 1.0 |
 |   |   |   |   |   |   |   |   |
 | Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Native | 130 s | 1.0 |
 | Power8 3425 MHz | Linux | g++ 10.1.1 | ST | 64 | DP  Generic | 179 s | 1.38 |
